@@ -15,6 +15,7 @@ This project implements a simple CPU design with a basic instruction set that ca
 - **Microprogrammed Control Unit**: The control unit, with its Control Memory (CM), generates control signals to direct CPU operations.
 ![micro_programs Diagram](images/micro_programs.png)
 *micro_programs*
+
 ![control_signals Diagram](images/control_signals.png)
 *control_signals*
 

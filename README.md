@@ -14,10 +14,8 @@ This project implements a simple CPU design with a basic instruction set that ca
 ![ALU Diagram](images/alu.png)
 - **Microprogrammed Control Unit**: The control unit, with its Control Memory (CM), generates control signals to direct CPU operations.
 ![micro_programs Diagram](images/micro_programs.png)
-*micro_programs*
-
 ![control_signals Diagram](images/control_signals.png)
-*control_signals*
+*micro_programs & control_signals*
 
 ## Project Structure
 - **Top-Level Module**: Connects all modules into the CPU system.
